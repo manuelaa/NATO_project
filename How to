@@ -1,0 +1,12 @@
+dakle tutorial:
+1. upaliti Visual Studio 2013.
+2. sve je tu :)
+
+Dake, tamo sa strane gdje je otvoren solution može se kliknuti na tema explorer, pa postoji opcija git repositories. 
+Trebali biste tamo kliknuti na opciju clone, linkati ovo: https://github.com/manuelaa/NATO_project, 
+odabrati gdje će biti lokalni repozitorij, kliknuti na clone. i to je to.
+Mislim da se prije svakog početka rada na projektu treba kliknuti na Sync koji se nalazi u Unsynced commits.
+Kad nešto izmijenite/dodate/obrišete pojavit će se oznake kao na rpppu. 
+Ovdje je super da je prilikom commita obavezan komentar, tako da se uvijek zna što se mijenjalo :) 
+nakon što se klikne commit, izmjene ne odlaze na server nego lokalno (?), pa da bi svaka izmjena prošla treba prvo 
+commitati pa onda kliknuti sync. Volá! :D
